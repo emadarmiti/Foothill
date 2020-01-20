@@ -10,17 +10,22 @@ html, body ,#container{
 
 
 #nav-bar{
+    position: sticky;
+    top: 0;
+   
+    
     background-color: white;
     height: 70px;
     width: 100%;
     display: flex;
+   
+
 }
 
 #nav-bar h1{
     color: rgb(75, 75, 75);
     font-size: 150%;
     font-weight: bold;
-   
 }
 #logo{
     display: flex;
