@@ -1,8 +1,30 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: Sans-serif	;
 }
 html, body ,#container{
     width: 100%;
     height: 100%;
+}
+
+
+#nav-bar{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    display: flex;
+}
+
+#nav-bar h1{
+    color: rgb(75, 75, 75);
+    font-size: 150%;
+    font-weight: bold;
+   
+}
+#logo{
+    display: flex;
+    align-items: center;
+    margin-left: 8%;
+    flex-wrap: nowrap;
 }
