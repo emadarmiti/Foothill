@@ -102,6 +102,10 @@ padding: 10px;
     min-height: 70px;
     width: 100%;
     display: flex;
+<<<<<<< HEAD
+=======
+    flex-direction: column;
+>>>>>>> master
    
   
   }
@@ -168,6 +172,10 @@ a:link {
        align-items: flex-start;
        background-color: white;
        width: 100%;
+<<<<<<< HEAD
+=======
+       position: sticky;
+>>>>>>> master
         
     }
     #nav-bar{
@@ -196,6 +204,10 @@ a:link {
    
     #menu-toggle:checked + #menu {
         display: flex !important;
+<<<<<<< HEAD
+=======
+        
+>>>>>>> master
       }
       #burger span{
           display: block !important;
@@ -216,6 +228,10 @@ a:link {
 
 #burger {
     cursor: pointer;
+<<<<<<< HEAD
+=======
+    margin-left: auto; display: inline-block;
+>>>>>>> master
     
 }
 #burger span{
